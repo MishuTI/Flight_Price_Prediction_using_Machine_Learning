@@ -1,0 +1,6 @@
+This File contain:
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
